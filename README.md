@@ -15,3 +15,9 @@ If the zoom link doesn't work, try installing zoom and entering the meeting ID: 
 Feel free to open topics, and subscribe for updates: 
 
 https://groups.google.com/forum/#!forum/armenian-bioinformatics-community 
+
+## Slack workspace 
+
+We're also testing the popularity of slack for discussions. Join here: 
+
+https://join.slack.com/t/bioinf-2020/shared_invite/zt-gj89i3up-ePUounTaoea2CJLXAV60lw 

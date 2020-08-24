@@ -3,11 +3,11 @@ An introductory course to computational biology focusing on genomics and systems
 
 ## Next meeting 
 
-**When:** Monday, August 24, 21:00 Yerevan time
+**When:** Monday, September 07, 21:00 Yerevan time
 
 **Where:** https://ki-se.zoom.us/j/62953584017 
 
-**Topics:** Genome assembly (continued), genome annotation and alignment
+**Topics:** Genome annotation and alignment
 
 
 If the zoom link doesn't work, try installing zoom and entering the meeting ID: 629 5358 4017

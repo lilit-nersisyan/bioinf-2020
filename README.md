@@ -24,11 +24,13 @@ Join here:
 
 https://join.slack.com/t/bioinf-2020/shared_invite/zt-gj89i3up-ePUounTaoea2CJLXAV60lw 
 
-## General syllabus 
-- September 14, Population genomics (guest lecture)
-- September 21, Ethnogenomics (guest lecture)
-- September 28, Gene expression analysis, 
-- October 05, Clustering and dimensionality reduction (guest lecture)
-- October 12, Single cell sequencing(guest lecture)
-- October 19, Systems biology (gene set enrichment, overrepresentation and pathway analysis)
-- October 26, microRNAs and cancer (guest lecture)
+## Preliminary syllabus
+- Genome annotation and alignment *[September 7]*
+- Population genomics (guest lecture) *[September 14]*
+- Ethnogenomics (guest lecture) *[September 21]*
+- Gene expression analysis (guest lecture) *[September 28]*
+- Clustering and dimensionality reduction (guest lecture) *[October 05]*
+- Single cell sequencing(guest lecture) *[October 12]*
+- Systems biology (gene set enrichment, overrepresentation and pathway analysis) *[October 19]*
+- microRNAs and cancer (guest lecture) *[October 26]*
+- biological databases (guest lecture)

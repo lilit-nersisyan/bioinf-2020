@@ -23,3 +23,12 @@ https://groups.google.com/forum/#!forum/armenian-bioinformatics-community
 Join here:
 
 https://join.slack.com/t/bioinf-2020/shared_invite/zt-gj89i3up-ePUounTaoea2CJLXAV60lw 
+
+## General syllabus 
+- September 14, Population genomics (guest lecture)
+- September 21, Ethnogenomics (guest lecture)
+- September 28, Gene expression analysis, 
+- October 05, Clustering and dimensionality reduction (guest lecture)
+- October 12, Single cell sequencing(guest lecture)
+- October 19, Systems biology (gene set enrichment, overrepresentation and pathway analysis)
+- October 26, microRNAs and cancer (guest lecture)

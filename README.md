@@ -26,8 +26,8 @@ https://join.slack.com/t/bioinf-2020/shared_invite/zt-gj89i3up-ePUounTaoea2CJLXA
 
 ## Preliminary syllabus
 - Genome annotation and alignment *[September 7]*
-- Population genomics (guest lecture) *[September 14]*
 - Ethnogenomics (guest lecture) *[September 21]*
+- Population genomics (guest lecture) *[September 14]*
 - Gene expression analysis (guest lecture) *[September 28]*
 - Clustering and dimensionality reduction (guest lecture) *[October 05]*
 - Single cell sequencing(guest lecture) *[October 12]*

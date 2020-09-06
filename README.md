@@ -1,6 +1,8 @@
 # bioinf-2020
 An introductory course to computational biology focusing on genomics and systems biology. 
 
+Course materials and links to recordings are available under each folder. 
+
 ## Next meeting 
 
 **When:** Monday, September 07, 21:00 Yerevan time

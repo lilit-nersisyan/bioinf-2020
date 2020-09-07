@@ -29,7 +29,7 @@ https://join.slack.com/t/bioinf-2020/shared_invite/zt-gj89i3up-ePUounTaoea2CJLXA
 
 ## Preliminary syllabus
 - Genome annotation and alignment *[September 7]*
-- Bioinformatics methods in population genetics (guest lecture) *[September 17]*
+- Bioinformatics methods in population genetics (guest lecturer: Anahit Hovhannisyan) *[September 17]*
 - Population genomics (guest lecture) 
 - Gene expression analysis (guest lecture) 
 - Clustering and dimensionality reduction (guest lecture) 

@@ -28,7 +28,12 @@ Join here:
 https://join.slack.com/t/bioinf-2020/shared_invite/zt-gj89i3up-ePUounTaoea2CJLXAV60lw 
 
 ## Preliminary syllabus
-- Genome annotation and alignment *[September 7]*
+- A general introduction to the course *[meeting 01_20200727]*
+- The central dogma of molecular biology (DNA, RNA, genes, proteins, genomic variations) *[meeting_02_20200803]*
+- Sequencing technologies and sequencing data quality control *[meeting_03_20200810]*
+- Genome assembly (and some quality control continued) *[meeting_04_20200817]*
+- Genome assembly applications and current challenges (a journal club) *[meeting_05_20200824]*
+- Genome annotation and alignment/mapping algorithms *[meeting_06_202020907]*
 - Bioinformatics methods in population genetics (guest lecturer: Anahit Hovhannisyan) *[September 17]*
 - Population genomics (guest lecture) 
 - Gene expression analysis (guest lecture) 

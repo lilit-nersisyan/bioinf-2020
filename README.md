@@ -24,8 +24,7 @@ https://groups.google.com/forum/#!forum/armenian-bioinformatics-community
 ## Slack workspace 
 
 Join here:
-
-https://join.slack.com/t/bioinf-2020/shared_invite/zt-gj89i3up-ePUounTaoea2CJLXAV60lw 
+https://join.slack.com/t/bioinf-2020/shared_invite/zt-h1abw6dj-a5Mf8prpyfEnzLHn_UjmiQ 
 
 ## Preliminary syllabus
 - A general introduction to the course *[meeting 01_20200727]*

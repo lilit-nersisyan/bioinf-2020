@@ -3,9 +3,9 @@ An introductory course to computational biology focusing on genomics and systems
 
 Course materials and links to recordings are available under each folder. 
 
-## Next meeting (date has changed for this time)
+## Next meeting (the date has changed for this time)
 
-**When:** Thursday, September 17, 21:00 Yerevan time
+**When:** Friday, September 18, 21:00 Yerevan time
 
 **Where:** https://ki-se.zoom.us/j/62953584017 
 

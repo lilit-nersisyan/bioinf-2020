@@ -3,15 +3,15 @@ An introductory course to computational biology focusing on genomics and systems
 
 Course materials and links to recordings are available under each folder. 
 
-## Next meeting (21st)
+## Next meeting (Sep 28)
 
-**When:** Monday, September 21, 21:00 Yerevan time
+**When:** Monday, September 28, 21:00 Yerevan time
 
 **Where:** https://ki-se.zoom.us/j/62953584017 
 
-**Topics:** Bioinformatics methods in population genetics
+**Topics:** High throughput analysis and clustering methods in population genomics
 
-**Guest lecturer** Anahit Hovhannisyan, PhD (Institute of Molecular Biology NAS Armenia)
+**Guest lecturer** Arsen Arakelyan and Maria Nikoghosyan (Bioinformatics Group, Institute of Molecular Biology NAS Armenia)
 
 If the zoom link doesn't work, try installing zoom and entering the meeting ID: 629 5358 4017
 
@@ -33,8 +33,8 @@ https://join.slack.com/t/bioinf-2020/shared_invite/zt-h1abw6dj-a5Mf8prpyfEnzLHn_
 - Genome assembly (and some quality control continued) *[meeting_04_20200817]*
 - Genome assembly applications and current challenges (a journal club) *[meeting_05_20200824]*
 - Genome annotation and alignment/mapping algorithms *[meeting_06_202020907]*
-- Bioinformatics methods in population genetics (guest lecturer: Anahit Hovhannisyan) *[September 17]*
-- Population genomics (guest lecture) 
+- Bioinformatics methods in population genetics (guest lecturer: Anahit Hovhannisyan) *[September 21]*
+- Population genomics (guest lecture: Arsen Arakelyan & Maria Nikoghosyan) *[September 28]* 
 - Gene expression analysis (guest lecture) 
 - Clustering and dimensionality reduction (guest lecture) 
 - Single cell sequencing(guest lecture) 

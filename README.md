@@ -19,7 +19,7 @@ If the zoom link doesn't work, try installing zoom and entering the meeting ID: 
 
 Subscribe for updates: 
 
-https://groups.google.com/forum/#!forum/armenian-bioinformatics-community 
+https://groups.google.com/g/armenian-bioinformatics-community 
 
 ## Slack workspace 
 
